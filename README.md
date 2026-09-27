@@ -1,22 +1,14 @@
-# Java & Python Foundations 🚀
+# Java & Python Foundations
 
-Welcome to my foundational programming repository! This project tracks my journey as I build a rock-solid understanding of core algorithms, mathematics, and data logic using **Java** and **Python**.
+Welcome to my computer science repository! This project tracks my progressive learning journey from foundational programming logic to advanced problem-solving algorithms during Class 11.
 
-## 📂 Project Structure & Contents
+## 📁 Repository Contents
 
-### ☕ Java Programs
-* **`Matrix.java`** (Currently named `matrix_diagonal_su...`): Takes a 3x3 matrix input from the user and calculates the sum of the main diagonal elements.
-* **`Fibonacci.java`**: Generates and prints the Fibonacci sequence up to a user-defined maximum limit `n` without exceeding it.
+### ☕ Java Implementations (ICSE Background)
+* **Fibonacci.java**: An implementation generating the Fibonacci sequence to practice loop efficiency.
+* **matrix_diagonal_sum.java**: A 2D array program calculating matrix diagonals to master grid tracking and multi-dimensional indexes.
 
-### 🐍 Python Programs
-* **`Athletes_score.py`**: A script designed to track, calculate, or analyze athletic scores and performance metrics.
-* **`string_reversal.py`**: A foundational algorithm that demonstrates how to manipulate and reverse text strings.
+### 🐍 Python Programs (Class 11 Progress)
+* **Athletes_score.py**: A tracking script demonstrating data capture and conditional metrics.
+* **string_reversal.py**: An algorithmic script focused on string manipulations and character positioning loops.
 
----
-
-## 📈 Goals & Next Steps
-- [ ] Organize files into dedicated `/Java` and `/Python` sub-folders.
-- [ ] Add an anti-diagonal sum feature to the Matrix program.
-- [ ] Implement classic sorting algorithms (Bubble Sort, Selection Sort).
-
-*Feel free to explore the code or connect with me if you are exploring foundational programming too!*
